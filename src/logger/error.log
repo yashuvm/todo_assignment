@@ -1,0 +1,15 @@
+error: authtokens validation failed: name: Path `name` is required., password: Path `password` is required. {"DateTime":"2022-07-07T16:26:55.975Z","_message":"authtokens validation failed","errors":{"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required","value":""},"value":""},"password":{"kind":"required","message":"Path `password` is required.","name":"ValidatorError","path":"password","properties":{"message":"Path `password` is required.","path":"password","type":"required","value":""},"value":""}}}
+error: salt is not defined {"DateTime":"2022-07-07T16:30:20.143Z"}
+error: checkIfExist is not defined {"DateTime":"2022-07-07T16:31:15.789Z"}
+error: checkIfExist is not defined {"DateTime":"2022-07-07T16:45:15.067Z"}
+error: authtokens validation failed: name: Path `name` is required. {"DateTime":"2022-07-07T16:45:33.202Z","_message":"authtokens validation failed","errors":{"name":{"kind":"required","message":"Path `name` is required.","name":"ValidatorError","path":"name","properties":{"message":"Path `name` is required.","path":"name","type":"required"}}}}
+error: Cannot read property 'WRNG_EMAIL' of undefined {"DateTime":"2022-07-07T16:57:55.096Z"}
+error: bcrypt is not defined {"DateTime":"2022-07-07T16:58:45.961Z"}
+error: Cannot read property 'split' of undefined {"DateTime":"2022-07-07T17:27:43.171Z"}
+error: Token is not valid {"DateTime":"2022-07-07T17:27:43.171Z"}
+error: invalid token {"DateTime":"2022-07-07T17:27:43.171Z","name":"JsonWebTokenError"}
+error: requeaastObj is not defined {"DateTime":"2022-07-07T17:29:55.636Z"}
+error: requeaastObj is not defined {"DateTime":"2022-07-07T17:29:55.636Z"}
+error: todos validation failed: studentAddress: Path `studentAddress` is required. {"DateTime":"2022-07-07T17:30:09.504Z","_message":"todos validation failed","errors":{"studentAddress":{"kind":"required","message":"Path `studentAddress` is required.","name":"ValidatorError","path":"studentAddress","properties":{"message":"Path `studentAddress` is required.","path":"studentAddress","type":"required"}}}}
+error: todos validation failed: studentName: Path `studentName` is required., studentAddress: Path `studentAddress` is required. {"DateTime":"2022-07-07T17:32:40.786Z","_message":"todos validation failed","errors":{"studentAddress":{"kind":"required","message":"Path `studentAddress` is required.","name":"ValidatorError","path":"studentAddress","properties":{"message":"Path `studentAddress` is required.","path":"studentAddress","type":"required"}},"studentName":{"kind":"required","message":"Path `studentName` is required.","name":"ValidatorError","path":"studentName","properties":{"message":"Path `studentName` is required.","path":"studentName","type":"required"}}}}
+error: saveDb is not defined {"DateTime":"2022-07-07T17:46:47.669Z"}
