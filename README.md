@@ -7,6 +7,7 @@
 # After install node modules run :- npm start
 
 ---I Share the postman collections also 
+--- import TODO TASK postman collection in your postman.
 
 # In this task i make two models authTokenSchema and todoSchema.authTokenSchema is used for jsonwebtoken authentication and when we run the project a dumy user is created only once.
 
