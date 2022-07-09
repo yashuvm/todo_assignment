@@ -30,6 +30,7 @@ router.put("/update/:studentId", auth, todoValidation.updateTodos, todoControlle
 /**
  * API: DELETE TODOS
  * TYPE: DELETE
+ * PARAMS_PARAMETER:- :/studentId
  * AUTHROZIATION: Bearer <token>
  */
 router.delete("/delete/:studentId", auth, todoControllers.delete);
